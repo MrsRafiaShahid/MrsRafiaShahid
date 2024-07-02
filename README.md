@@ -1,29 +1,22 @@
 
 <div>
   <h1>
-  Hi there<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px">
-  
+  Hi there<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height="50px">
 </h1>
 </div>
-<hr>
-<!-- <p>
-  
-  <a href="https://github.com/MrsRafiaShahid">Front end<img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;SEO+Optimization&center=true&width=500&height=50"></a>
-</p> -->
-
-<div>
-
-<p> 
+<p align="center">
+<a href="https://github.com/MrsRafiaShahid"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;SEO+Optimization&center=true&width=500&height=50"></a>
+  </p>
+<p > 
 Welcome to my GitHub portfolio! Here, you'll find a collection of my projects showcasing my skills and interests in web development.  I am a passionate Front end developer 
 dedicated to leading and inspiring upcoming talents and developers. I love being part of minds that give back to the community. Open-source contribution and community development are my greatest passion!
  Each repository contains a detailed README with project-specific information, including features, installation instructions, and usage examples.
 </p>
-  
-</div>
+<hr>
 - 👀 I’m interested in HTML, CSS,Javascript...<br>
 - 🌱 I’m currently learning  Web development ...<br>
 - 💞️ I’m looking to collaborate on  other Front end web developers.<br>
-- 😄 ...<br>
+- 😄 I like to explore in IT field...<br>
 - ⚡ Fun fact: I love cooking, traveling and designing...<br>
 <hr>
 <div>
@@ -49,7 +42,7 @@ dedicated to leading and inspiring upcoming talents and developers. I love being
 
 
 
-<table width="100">
+<table width="100" align="center">
 <tr>
     <td align='center' width="200" colspan=2>
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
@@ -134,6 +127,8 @@ dedicated to leading and inspiring upcoming talents and developers. I love being
 <br> -->
 
 
+
+<!--
 ## ⚡️Github Contributions
 	
 <h4 align="center">Isometric view of contributions in the last year</h4>
@@ -142,8 +137,6 @@ dedicated to leading and inspiring upcoming talents and developers. I love being
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p>
-
-<!--
 ## 🐛Github Magic Game
 <p align="center">
 <img src="https://github.com/MrAbdulAzizZahid/MrAbdulAzizZahid/blob/output/github-contribution-grid-snake.svg" />
