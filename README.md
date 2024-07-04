@@ -26,10 +26,10 @@ dedicated to leading and inspiring upcoming talents and developers. I love being
 <a herf="mailto:mrssrafiashahid@gmail.com" target="_blank">
  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </a>
-<a herf="https://www.intagram.com/raffi__2002" target="_blank">
+<a herf="https://www.intagram.com/raffi__2002/" target="_blank">
  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </a>
-<a herf="https://www.facebook.com/Rafia Shahid" target="_blank">
+<a herf="https://www.facebook.com/Rafia Shahid/" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
