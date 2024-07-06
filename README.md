@@ -18,7 +18,8 @@ dedicated to leading and inspiring upcoming talents and developers. I love being
 - 💞️ I’m looking to collaborate on  other Front end web developers.<br>
 - 😄 I like to explore in IT field...<br>
 - ⚡ Fun fact: I love cooking, traveling and designing...<br>
-- 😊 Connect with me: mrssrafiashahid@gmail.com <br>
+- 😊 Connect with me: <a herf="mailto:mrssrafiashaid@gmail.com">mrssrafiashahid@gmail.com</a>
+<br>
 <hr>
 <div align="center">
 
