@@ -14,24 +14,25 @@ dedicated to leading and inspiring upcoming talents and developers. I love being
 </p>
 <hr>
 - 👀 I’m interested in HTML, CSS,Javascript...<br>
-- 🌱 I’m currently learning  Web development ...<br>
+- 🌱 I’m currently learning  Web development...<br>
 - 💞️ I’m looking to collaborate on  other Front end web developers.<br>
 - 😄 I like to explore in IT field...<br>
 - ⚡ Fun fact: I love cooking, traveling and designing...<br>
+- 😊 Connect with me: mrssrafiashahid@gmail.com <br>
 <hr>
-<div>
+<div align="center">
 
   
 <h3> Connect With me</h3>
 <a herf="mailto:mrssrafiashahid@gmail.com" target="_blank">
  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </a>
-<a herf="https://www.instagram.com/raffi__2002/" target="_blank">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</a>
-<a herf="https://www.facebook.com/Rafia Shahid/" target="_blank">
+<!-- <a herf="https://www.instagram.com/raffi__2002/" target="_blank">
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
+</a> -->
+<!-- <a herf="https://www.facebook.com/Rafia Shahid/" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
+  </a> -->
 </div>
  
 <h1>Tech Stack  
