@@ -49,18 +49,18 @@ dedicated to leading and inspiring upcoming talents and developers. I love being
     <td align='center' width="200" colspan=2>
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
-<!--  <td align='center' width="200">
+ <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td> -->
-<!-- 	 <td align='center' width="200">
+    </td>
+	 <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="80">
-    </td> -->
-<!-- 	 <td align='center' width="200">
+    </td>
+	 <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="80">
-    </td> -->
-<!-- <td align='center' width="200">
+    </td>
+<td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="80">
-    </td> -->
+    </td>
 </tr>
  
 <tr >
@@ -70,7 +70,7 @@ dedicated to leading and inspiring upcoming talents and developers. I love being
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
-<!--  <td align='center'>
+ <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
      <td align='center'>
@@ -78,8 +78,8 @@ dedicated to leading and inspiring upcoming talents and developers. I love being
     </td> -->
 <!--     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="80">
-    </td>
-</tr> -->
+    </td> -->
+</tr>
  
 <tr>
 <!--     <td align='center'>
@@ -115,6 +115,7 @@ dedicated to leading and inspiring upcoming talents and developers. I love being
 <a href="https://github.com/MrsRafiaShahid">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrsRafiaShahid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrsRafiaShahid&layout=compact&langs_count=8&theme=dark"/>
+	
 </a>
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRafiaShahid&show_icons=true&locale=en&layout=demo&theme=dark" />
 </p>
