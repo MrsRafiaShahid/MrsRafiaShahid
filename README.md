@@ -70,12 +70,12 @@ dedicated to leading and inspiring upcoming talents and developers. I love being
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
- <td align='center'>
+<!--  <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
      <td align='center'>
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
-    </td> -->
+    </td>  -->
 <!--     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="80">
     </td> -->
@@ -109,7 +109,7 @@ dedicated to leading and inspiring upcoming talents and developers. I love being
 
  
  <h2>⚡️GitHub Analytics
- </h2>
+<!--  </h2>
 
 <p align="center">
 <a href="https://github.com/MrsRafiaShahid">
@@ -120,9 +120,35 @@ dedicated to leading and inspiring upcoming talents and developers. I love being
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRafiaShahid&show_icons=true&locale=en&layout=demo&theme=dark" />
 </p>
 </p>
-<br>
-	
+<br> -->
+## 🚀 Multi-Language GitHub Analytics
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+
+<!-- Profile Stats -->
+<a href="https://github.com/MrsRafiaShahid">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MrsRafiaShahid&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"/>
+</a>
+
+<!-- Most Used Languages -->
+
+<a href="https://github.com/MrsRafiaShahid">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrsRafiaShahid&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&hide=Jupyter%20Notebook,PLSQL,Procfile"/>
+</a>
+
+<!-- GitHub Streak -->
+<a href="https://github.com/MrsRafiaShahid">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?username=MrsRafiaShahid&theme=radical&hide_border=true&background=30,904e95,e96443&stroke=904e95&ring=e96443&fire=e96443&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff"/>
+</a>
+
+<!-- Language Breakdown -->
+<!--
+<a href="https://github.com/MrsRafiaShahid">
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrsRafiaShahid&theme=radical&exclude=Profile"/>
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrsRafiaShahid&theme=radical"/>
+</a>
+-->
+</div>
 <!-- ## 🚀Github Metrics
 <p align="center">
 	<img width="625em" src="https://github.com/Wajeeh-Haider/Wajeeh-Haider/blob/main/github-metrics.svg" />
@@ -155,8 +181,6 @@ dedicated to leading and inspiring upcoming talents and developers. I love being
 </p>
 
 -->
-
-<br>
 
 <!---
 MrsRafiaShahid/MrsRafiaShahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
